@@ -1,0 +1,15 @@
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\bin\Debug\net6.0\pti.exe
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\bin\Debug\net6.0\pti.deps.json
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\bin\Debug\net6.0\pti.runtimeconfig.json
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\bin\Debug\net6.0\pti.dll
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\bin\Debug\net6.0\pti.pdb
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.csproj.AssemblyReference.cache
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.AssemblyInfoInputs.cache
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.AssemblyInfo.cs
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.csproj.CoreCompileInputs.cache
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.dll
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\refint\pti.dll
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.pdb
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\pti.genruntimeconfig.cache
+C:\Users\rhsra\OneDrive\Área de Trabalho\pti\obj\Debug\net6.0\ref\pti.dll
